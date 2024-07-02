@@ -5,12 +5,13 @@ const sum = numbers.reduce(
 console.log(sum);
 
 const value = [
-  [1, 2],
-  [3, 4],
-  [4, 5],
+  [0,1,2],
+  [3,4,5]
 ];
 
 const array = value.reduce((accumalator, currentValue) =>
+  
   accumalator.concat(currentValue)
 );
-console.log(array);
+value.concat()
+console.log(value);
