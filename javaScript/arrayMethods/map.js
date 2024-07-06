@@ -32,7 +32,7 @@ console.log(keys.next().value);
 // console.log(uniqueNumbers); // Output: [1, 2, 4, 5, 6, 7, 3]
 
 // const array = [1, 2, 1, 2, 3, 3];
-// const set = new Set(array);
+// const set = new Set(array);45 47 43 47 23
 // console.log(set.has(5))
 
 const array = ["array", "object", "hi"];
